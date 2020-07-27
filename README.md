@@ -3,5 +3,5 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sqaiyan&repo=netmusic-node&show_owner=true&title_color=F8CE04)](https://github.com/sqaiyan/netmusic-node)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sqaiyan&repo=neteasemusic&show_owner=true&title_color=F8854D&icon_color=F8854D)](https://github.com/sqaiyan/neteasemusic)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sqaiyan&show_icons=true)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqaiyan)]
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sqaiyan&show_icons=true)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqaiyan)]()
